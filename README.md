@@ -28,4 +28,5 @@ Practice repository covering Python fundamentals, debugging, and introductory da
 notebooks/
 ├── python_basics/           Python fundamentals
 ├── pandas/                  Pandas and DataFrame practice
-├── pcep_practice/           PCEP preparation notebooks
+├── data_visualization/      Pandas plotting and Seaborn practice
+└── pcep_practice/           PCEP preparation notebooks
