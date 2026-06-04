@@ -25,7 +25,7 @@ Practice repository covering Python fundamentals, debugging, and introductory da
 ## Repository Structure
 
 ```text
-notebooks/   Practice notebooks
-scripts/     Selected Python scripts
-data/        Dataset notes or small sample datasets
-images/      Supporting screenshots
+notebooks/
+├── python_basics/           Python fundamentals
+├── pandas/                  Pandas and DataFrame practice
+├── pcep_practice/           PCEP preparation notebooks
